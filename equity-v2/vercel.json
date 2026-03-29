@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/edgar.js": {
+      "maxDuration": 60
+    },
+    "api/analyze.js": {
+      "maxDuration": 60
+    },
+    "api/financials.js": {
+      "maxDuration": 30
+    }
+  }
+}
